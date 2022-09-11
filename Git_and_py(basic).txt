@@ -1,0 +1,31 @@
+list_1 = ["A","B","C","D"]
+list_1[1]= "XYZ"
+print(list_1)
+
+list_1[0:2] = ["ABC","BCD"]
+list_1.insert(4,(2+3i))
+
+Bitbucket ---> Atlastian Product
+Azure DevOPS
+Gitlab
+Github
+
+WorksSpace-->Project --->Repositiries --->
+    Branch
+   |     |
+master   main
+
+Normal GIT
+Advance GIT
+GIT LFS
+     GIT
+   |     |
+GIT bash  GUI
+1)git init-->initialise
+2)git promote add origin-->
+3)git remote -v
+4)git status     push-->track-->commit-->push
+5)git add  prime.py/new.py
+6)git status  
+7)git commit -m " "
+8)git push --force origin master
